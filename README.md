@@ -166,4 +166,4 @@ Computer Science Engineering Student
 
 GitHub: https://github.com/Vasundhara117
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn: https://www.linkedin.com/in/vasundhara-devi/
