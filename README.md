@@ -130,9 +130,13 @@ cd PlantAI
 
 ### Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
+Install the required libraries manually:
+
+- TensorFlow
+- Flask
+- NumPy
+- ReportLab
+- Requests
 
 ### Run Application
 
