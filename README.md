@@ -85,23 +85,23 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Image Upload Interface
 
-![Upload](screenshots/upload.png)
+![Upload](upload.png)
 
 ### Disease Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](prediction.png)
 
 ### Generated PDF Report
 
-![Report](screenshots/report.png)
+![Report](report.png)
 
 ### AI Chatbot Assistant
 
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](chatbot.png)
 
 ---
 
