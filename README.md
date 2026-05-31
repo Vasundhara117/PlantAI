@@ -5,7 +5,15 @@ PlantCare AI is an AI-powered plant health analysis platform that combines deep 
 The system uses a MobileNetV2-based image classification model trained on 38 plant disease categories and provides weather-aware risk assessments, disease analysis, treatment recommendations, and professional phytosanitary reports.
 
 ---
+## 🎯 Key Highlights
 
+- Classifies 38 plant diseases and healthy plant conditions
+- MobileNetV2-based deep learning model
+- Real-time weather-aware risk assessment
+- AI-powered plant care chatbot
+- Automated PDF phytosanitary report generation
+- Flask-based web application
+- 
 ## 🚀 Features
 
 ### 🔍 AI Disease Detection
@@ -80,6 +88,12 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 | Framework    | TensorFlow / Keras           |
 
 ---
+## 📊 Model Performance
+
+- Model: MobileNetV2
+- Number of Classes: 38
+- Validation Accuracy: 95.7%
+- Framework: TensorFlow / Keras
 
 ## 📸 Application Screenshots
 
