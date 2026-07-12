@@ -1,11 +1,11 @@
-# 🌿 PlantCare AI – Intelligent Plant Disease Diagnosis System
+# PlantCare AI – Intelligent Plant Disease Diagnosis System
 
 PlantCare AI is an AI-powered plant health analysis platform that combines deep learning, real-time environmental monitoring, and automated report generation to assist in early detection and management of plant diseases.
 
 The system uses a MobileNetV2-based image classification model trained on 38 plant disease categories and provides weather-aware risk assessments, disease analysis, treatment recommendations, and professional phytosanitary reports.
 
 ---
-## 🎯 Key Highlights
+##  Key Highlights
 
 - Classifies 38 plant diseases and healthy plant conditions
 - MobileNetV2-based deep learning model
@@ -14,35 +14,35 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 - Automated PDF phytosanitary report generation
 - Flask-based web application
 - 
-## 🚀 Features
+##  Features
 
-### 🔍 AI Disease Detection
+###  AI Disease Detection
 
 * Classifies 38+ plant diseases and healthy plant conditions
 * Powered by MobileNetV2 deep learning architecture
 * High-confidence image-based diagnosis
 
-### 🌦️ Environmental Risk Analysis
+###  Environmental Risk Analysis
 
 * Real-time temperature and humidity integration
 * Weather-aware disease risk forecasting
 * Environmental condition monitoring
 
-### 📊 Technical Disease Assessment
+###  Technical Disease Assessment
 
 * Plant species identification
 * Disease categorization
 * Infection-stage interpretation
 * AI confidence scoring
 
-### 📄 Automated PDF Report Generation
+###  Automated PDF Report Generation
 
 * Professional phytosanitary reports
 * Disease diagnosis summary
 * Environmental analysis
 * Recommended treatment protocols
 
-### 🤖 PlantCare AI Chatbot
+###  PlantCare AI Chatbot
 
 * Interactive plant health assistant
 * Guidance for disease management
@@ -50,7 +50,7 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Machine Learning
 
@@ -77,7 +77,7 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 
 ---
 
-## 🧠 Model Information
+##  Model Information
 
 | Attribute    | Value                        |
 | ------------ | ---------------------------- |
@@ -88,7 +88,7 @@ The system uses a MobileNetV2-based image classification model trained on 38 pla
 | Framework    | TensorFlow / Keras           |
 
 ---
-## 📊 Model Performance
+##  Model Performance
 
 - Model: MobileNetV2
 - Number of Classes: 38
@@ -152,7 +152,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📈 Workflow
+##  Workflow
 
 1. Upload a plant leaf image
 2. AI model analyzes the image
@@ -165,7 +165,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Mobile application deployment
 * Multi-language support
@@ -176,7 +176,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Vasundhara Devi**
 
